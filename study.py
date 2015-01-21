@@ -13,7 +13,6 @@ def banner():
 	####################################
 	#                                  #
 	#      Script para estudiar        #
-	#      Sript para estudiar         #
 	#   Hecho por @SalvaCorts cuando   #
 	#   deberia estar estudiando...    #
 	#                                  #
