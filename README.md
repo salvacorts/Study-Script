@@ -2,9 +2,9 @@
 
 Installation:
 ==============
-git clone https://github.com/salvacorts/Study-Script.git study-script/
-cd study-script/
-sudo python study.py
+- $ git clone https://github.com/salvacorts/Study-Script.git study-script/
+- $ cd study-script/
+- $ sudo python study.py
 
 Configuration:
 ==============
