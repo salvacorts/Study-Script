@@ -1,0 +1,66 @@
+#####################################
+#                                   #
+# Host a bloquear mientras estudio. #
+#                                   #
+#           @SalvaCorts             #
+#                                   #
+# 127.0.0.1      \t           host  #
+#				                    #
+#####################################
+
+#127.0.0.1	ejemplo.com
+
+# Social
+# -Facebook- #
+127.0.0.1 www.facebook.com
+127.0.0.1 facebook.com
+127.0.0.1 static.ak.fbcdn.net
+127.0.0.1 www.static.ak.fbcdn.net
+127.0.0.1 login.facebook.com
+127.0.0.1 www.login.facebook.com
+127.0.0.1 fbcdn.net
+127.0.0.1 www.fbcdn.net
+127.0.0.1 fbcdn.com
+127.0.0.1 www.fbcdn.com
+127.0.0.1 static.ak.connect.facebook.com
+127.0.0.1 www.static.ak.connect.facebook.com
+facebook.com	127.0.0.1
+# -Facebook- #
+127.0.0.1	twitter.com
+127.0.0.1	instagram.com
+127.0.0.1	ello.co
+127.0.0.1	flickr.com
+127.0.0.1	soundcloud.com
+127.0.0.1	mibbit.com
+			
+# Informatica:
+127.0.0.1	muylinux.com
+127.0.0.1	desdelinux.net
+127.0.0.1	omgubuntu.co.uk
+127.0.0.1	omgchrome.co.uk
+127.0.0.1	github.com
+127.0.0.1	pastebin.com
+127.0.0.1	sourceforge.com
+127.0.0.1	xataka.com
+127.0.0.1	w3schools.com
+127.0.0.1	codeacademy.org
+127.0.0.1	stackoverflow.com
+
+# Hacking
+127.0.0.1	highsec.es
+127.0.0.1	elladodelmal.com
+127.0.0.1	securitybydefault.com
+127.0.0.1	dragonjar.org
+127.0.0.1	elblogdeangelucho.com
+127.0.0.1	flu-project.com
+127.0.0.1	hackxcrack.net
+
+# Otros
+127.0.0.1	thepiratebay.se
+
+# The following lines are desirable for IPv6 capable hosts
+::1     ip6-localhost ip6-loopback
+fe00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
