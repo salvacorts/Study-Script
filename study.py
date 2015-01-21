@@ -100,6 +100,8 @@ def main():
 				os.system("clear")
 				print("\nRestored!")
 				main()				
+			elif (purpose == "3"):
+				exit()
 				
 			else:
 				os.system("clear")
